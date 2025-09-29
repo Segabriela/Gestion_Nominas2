@@ -1,0 +1,6 @@
+Laura Lopez;8437383P;7;4;7
+James Cosling;32000032G;M;4;10
+Ada Lovelace;32000031R;F;2;7
+Pedro Santana;5658245R;M;3;2
+Lorena Ruiz;3874584R;M;5;7
+Tatiana Soler;3484730S;F;4;1
